@@ -94,9 +94,9 @@ tbd
 
 I'm absolutely fascinated with how mediums are shaped to contain ideas that spread in a culture. With Hubdia, we can build new ways to consume content from all the different social platforms. These are essentially satellite apps, among other things. We use The Media Equation to craft new mediums. 
 
-
 New mediums ironed out, with links to their details: 
- - (Hubdia Posters, a satellite app)[]
+
+ - [Hubdia Posters, a satellite app](https://github.com/bill-riley/ideas/blob/master/02%20-%20hubdia/02A%20-%20Posters/DETAILS.md)
 
 ####Examples/Use Cases/Ideal Stories
 This section will be in each of the new mediums descriptions. 
