@@ -33,8 +33,6 @@ For the core problem, the monetization strategy isn't ironed out. If I make the 
 
 ##Non-core Problems
 
-----
-
 ###Subproblem 1: Idea propogation
 
 There are a subset of creators who are focused on pushing an idea into a culture or subculture. They utilize multiple mediums to deliver their idea and help it spread where they want it to be. They need to create a ton of content using mediums to really stand out and help their idea spread. 
